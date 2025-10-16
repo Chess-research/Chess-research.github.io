@@ -1,0 +1,67 @@
+#d0{
+    font-family: sans-serif;
+    padding: 15px;
+    color: rgba(255, 255, 255, 0.671);
+    background-color: rgb(8, 112, 8);
+    border-radius: 25px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 4px gray;
+}
+#d1{
+    margin: 10px;
+    font-family: sans-serif;
+    background-color: yellowgreen;
+    border-radius: 25px;
+    padding: 15px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 4px gray;
+}
+#d2{
+    margin: 10px;
+    font-family: sans-serif;
+    background-color: rgb(50, 205, 58);
+    border-radius: 25px;
+    padding: 15px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 4px gray;
+}
+#d3{
+    margin: 10px;
+    font-family: sans-serif;
+    background-color: rgb(50, 205, 115);
+    border-radius: 25px;
+    padding: 15px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 4px gray;
+}
+#d4{
+    margin: 10px;
+    font-family: sans-serif;
+    background-color: rgb(50, 200, 205);
+    border-radius: 25px;
+    padding: 15px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 4px gray;
+}
+#d5{
+    margin: 10px;
+    font-family: sans-serif;
+    background-color: rgb(50, 104, 205);
+    border-radius: 25px;
+    padding: 15px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 4px gray;
+}
+#d6{
+    margin: 10px;
+    font-family: sans-serif;
+    background-color: rgb(130, 50, 205);
+    border-radius: 25px;
+    padding: 15px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 4px gray;
+}
+#views{
+    font-weight: bold;
+    margin: 10px;
+}
